@@ -1,0 +1,5 @@
+{
+  "name": "The AI Resume Roaster",
+  "description": "A strict AI Hiring Manager that roasts your resume and tells you exactly why you aren't getting hired, with actionable fixes.",
+  "requestFramePermissions": []
+}
